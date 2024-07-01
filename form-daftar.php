@@ -19,7 +19,7 @@
 <div class="mx-auto">
     <div class="card">
         <div class="card-header">
-            <h2 style="text-align: center">Formulir Pendaftaran Siswa Baru</h2>
+            <h2 style="text-align: center">Formulir Pendaftaran Siswa Baru< lllllllll/h2>
         </div>
         <div class="card-body">
             <form action="proses-pendaftaran.php" method="post">
